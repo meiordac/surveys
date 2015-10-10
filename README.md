@@ -31,22 +31,21 @@ Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.
 Getting Started
 ---------------
 
-**Clone the project
-**Run the migrations
-**Create a user
-**Create questions in /questions.
-
-*Designed a dashboard/interface to visualize responses, requiere user to be admin.
+* Clone the project
+* Run the migrations
+* Create a user
+* Create questions in /questions.
 
 Documentation and Support
 -------------------------
+Designed a dashboard/interface to visualize responses, requiere user to be admin.
 
 Admin user:
 
 development:
-  admin_name: First User
-  admin_email: user@example.com
-  admin_password: changeme
+* admin_name: First User
+* admin_email: user@example.com
+* admin_password: changeme
 
 Issues
 -------------
