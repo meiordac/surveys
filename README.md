@@ -31,9 +31,12 @@ Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.
 Getting Started
 ---------------
 
-Clone the project, run the migrations, create a user, create questions in /questions.
+**Clone the project
+**Run the migrations
+**Create a user
+**Create questions in /questions.
 
-Designed a dashboard/interface to visualize responses, requiere user to be admin.
+*Designed a dashboard/interface to visualize responses, requiere user to be admin.
 
 Documentation and Support
 -------------------------
