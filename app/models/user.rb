@@ -4,6 +4,7 @@ class User < ActiveRecord::Base
   #letsrate_rater
   #has_many :rates
   ratyrate_rater
+  before_create :skip_confirmation!
 
   def set_default_role
     self.role ||= :user
