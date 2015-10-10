@@ -58,6 +58,8 @@ Contributing
 
 Credits
 -------
+Developed for a tech interview
 
 License
 -------
+Surveys is released under the GNU License.
